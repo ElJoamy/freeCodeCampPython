@@ -1,4 +1,5 @@
 # Calculadora de varianza, desviación media, y estándar
+**Check the [`README.md`](../README.md) for necessary information about this project.**
 
 Crea una función llamada `calculate()` en `mean_var_std.py` que usa Numpy para producir la media, varianza, desviación estándar, max, min, y suma de las filas, columnas y elementos en una matriz de 3 x 3.
 

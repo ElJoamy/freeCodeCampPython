@@ -1,4 +1,5 @@
 # Visualizador de datos médicos
+**Check the [`README.md`](../README.md) for necessary information about this project.**
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. Los valores del conjunto de datos (dataset) se recogieron durante los exámenes médicos.
 
