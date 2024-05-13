@@ -7,7 +7,7 @@ To obtain the freeCodeCamp Data Analysis with Python certification, the followin
 5. [Sea Level Predictor](#Sea-Level-Predictor)
 
 ## Installation
-To run the projects, Python must be installed. It can be downloaded from [aquí](https://www.python.org/downloads/).
+To run the projects, Python must be installed. It can be downloaded from [here](https://www.python.org/downloads/).
 
 In addition, the following libraries must be installed:
 ```bash
