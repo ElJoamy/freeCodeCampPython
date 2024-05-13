@@ -19,4 +19,4 @@ The boilerplate also includes commands to save and return the image.
 <p>The unit tests for this project are in <code>test_module.py</code>. We imported the tests from <code>test_module.py</code> to <code>main.py</code> for your convenience.</p>
 
 # Solution
-[Solution Link]()
+[Solution Link](https://github.com/ElJoamy/freeCodeCampPython/tree/main/Visualizador%20de%20vistas%20de%20p%C3%A1gina%20en%20determinados%20per%C3%ADodos%20de%20tiempo)
