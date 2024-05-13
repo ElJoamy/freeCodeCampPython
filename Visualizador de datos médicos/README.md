@@ -153,3 +153,4 @@ Nombre del archivo: medical_examination.csv
 <p>The unit tests for this project are in <code>test_module.py</code>. Hemos importado las pruebas de <code>test_module.py</code> a <code>main.py</code> para tu conveniencia.</p>
 
 ## Solución
+[Solution Link](https://github.com/ElJoamy/freeCodeCampPython/tree/main/Visualizador%20de%20datos%20m%C3%A9dicos)
